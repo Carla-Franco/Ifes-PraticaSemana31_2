@@ -2,7 +2,7 @@
 
 ## Atividade prática da 31 semana - Parte 2
 
-Nesta semana trabalhamos com Mnipulação de Cookies
+Nesta semana trabalhamos com Manipulação de Cookies
 
 * Iniciando a criação do FrontEnd;
 * Parte 1 - Criacao das rotas do FrontEnd;
